@@ -7,11 +7,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Hello, Bootstrap</h1>
-      <p>
-        <a class="btn btn-primary" href="page1.php">page1</a>
-        <a class="btn btn-warning" href="page2.php">page2</a>
-      </p>
+      <h1 class="bg-primary">Hello, page1</h1>
     </div>
   </body>
 </html>
